@@ -1,0 +1,10 @@
+.head
+{
+    background-color: #c8f3d9;
+}
+header{
+    background-color: #c8f3d9;
+}
+.container {
+    display: flex;
+  }

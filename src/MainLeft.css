@@ -1,0 +1,15 @@
+
+.section {
+    flex: 1;
+    border: 1px solid #ccc;
+    padding: 20px;
+    background-color:white;
+  } 
+  
+  .left-section {
+    margin-right: 20px;
+    border-radius: 35px;
+    margin-top: 15px;
+    margin-left: 15px;
+    text-align: center;
+  }
